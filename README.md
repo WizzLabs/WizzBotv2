@@ -37,7 +37,7 @@ Built as part of my experimentation in combining IoT systems with web technologi
 
 ## 🔗 Links
 - 🌐 Portfolio: https://wizzbot-offi.vercel.app/
-- 💻 Repository: https://github.com/WizzBot-offi/WizzBotv2
+- 💻 Repository: https://github.com/WizzLabs/WizzBotv2
 ---
 
 ## 👨‍💻 Author
